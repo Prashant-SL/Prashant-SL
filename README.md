@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prashant S Laxmeshwarmath</h1>
 <h3 align="center">A passionate full stack developer from Hubballi, Karnataka</h3>
 
-<h3 align="left">About Me:</h3> <hr/>
+<h3 align="left">About Me:</h3> 
+
 - 🌱 I’m currently learning **Full Stack Web Development from Masai School**
 
 - 📫 Connect me **pacchidon07@gmail.com**
