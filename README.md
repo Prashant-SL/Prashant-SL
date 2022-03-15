@@ -2,14 +2,17 @@
 <h3 align="center">A passionate full stack developer from Hubballi, Karnataka</h3>
 
 <h3 align="left">About Me:</h3> 
+- 🎓 I have completed my **Bachelor's in Computer Application from Karnataka University**
 
-- 🌱 I’m currently learning **Full Stack Web Development from Masai School**
+- 🌱 I’m currently learning **Full Stack Web Development from Masai School & also intrested in Digital Marketing**
 
-- 📫 Connect me **pacchidon07@gmail.com**
+- 🎯 My Goal is to build apps which adds more value to the people's daily life
 
-- 📄 My Resume <a href="https://drive.google.com/drive/u/1/folders/11pYkiLLe2q6Sk4s9jvFKNKXU6Wx3O0NH">**Here**</a>
+- 📄 My Resume is <a href="https://drive.google.com/drive/u/1/folders/11pYkiLLe2q6Sk4s9jvFKNKXU6Wx3O0NH">**Here**</a>
 
 - ⚡ Interests <br/> **I love producing Electronic Dance Music** <br/> **My perfect day is when I watch movies on First Day First Show** 
+
+- 📫 Connect me **pacchidon07@gmail.com**
 
 
 
@@ -26,3 +29,8 @@
 <a href="https://fb.com/prashant.s.laxmeshwarmath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prashant.s.laxmeshwarmath" height="30" width="40" /></a>
 <a href="https://instagram.com/pacchyeah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pacchyeah" height="30" width="40" /></a>
 </p>
+
+
+
+
+
