@@ -5,7 +5,7 @@
 
 - 📫 Reach me via **pacchidon07@gmail.com**
 
-- 📄 My Resume <a href="https://drive.google.com/drive/u/1/folders/11pYkiLLe2q6Sk4s9jvFKNKXU6Wx3O0NH">Here</a>[https://drive.google.com/drive/u/1/folders/11pYkiLLe2q6Sk4s9jvFKNKXU6Wx3O0NH](https://drive.google.com/drive/u/1/folders/11pYkiLLe2q6Sk4s9jvFKNKXU6Wx3O0NH)
+- 📄 My Resume <a href="https://drive.google.com/drive/u/1/folders/11pYkiLLe2q6Sk4s9jvFKNKXU6Wx3O0NH">Here</a>
 
 - ⚡ Non Technical Skill **I love producing Electronic Dance Music**
 
