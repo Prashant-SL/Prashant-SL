@@ -2,6 +2,7 @@
 <h3 align="center">A passionate full stack developer from Hubballi, Karnataka</h3>
 
 <h3 align="left">About Me:</h3> 
+
 - 🎓 I have completed my **Bachelor's in Computer Application from Karnataka University**
 
 - 🌱 I’m currently learning **Full Stack Web Development from Masai School & also intrested in Digital Marketing**
