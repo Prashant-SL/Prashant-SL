@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant S Laxmeshwarmath</h1>
-<h4 align="center">A passionate coder living in Hubballi, Karnataka. I have completed my Bachelor's in Computer Application's from Karnataka University Dharwad, on October 2021. Dedicated and determined aspiring full-stack developer with a specialization in MERN stack. Seeking challenging opportunities to make the best use of my abilities and knowledge to develop both my professional and interpersonal skills, along with fulfilling the organization's growth and goals.</h4>
+<h4 align="left">A passionate coder living in Hubballi, Karnataka. I have completed my Bachelor's in Computer Application's from Karnataka University Dharwad, on October 2021. Dedicated and determined aspiring full-stack developer with a specialization in MERN stack. Seeking challenging opportunities to make the best use of my abilities and knowledge to develop both my professional and interpersonal skills, along with fulfilling the organization's growth and goals.</h4>
 
 <h3 align="left">About Me:</h3> 
 
