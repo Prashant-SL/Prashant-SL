@@ -1,7 +1,7 @@
 import React, { useState, useRef, useContext } from 'react';
 import { ThemeContext } from '../../ContextProvider/ThemeContext';
 import styles from './Navbar.module.css';
-import NameLogo from '../../assets/reeteshNameLogo.png'
+// import NameLogo from '../../assets/reeteshNameLogo.png'
 
 const barStyle = {
 	bar1: {
@@ -27,9 +27,7 @@ const cresent = {
 	transform: 'scale(1)',
 };
 const Navbar = () => {
-	const [preScrollPos, setPreScrollPos] = useState(
-		window.pageYOffset,
-	);
+	const [preScrollPos, setPreScrollPos] = useState(window.pageYOffset);
 	const navRef = useRef();
 
 	const { newTheme, mode, handleMode, open, handleMenu } =
@@ -55,39 +53,31 @@ const Navbar = () => {
 			}}
 		>
 			<div className={styles.navbar}>
-				<a href='https://reetesh-meena.vercel.app/'>
+				{/* <a href='https://reetesh-meena.vercel.app/'>
 					<div className={styles.logo}>
 						<img
 							src={NameLogo}
 							alt='Logo'
 						/>
 					</div>
-				</a>
+				</a> */}
 
-				<div
-					style={{ color: `${newTheme.title}` }}
-					className={styles.links}
-				>
-					<a href='#home'>Home</a>
-					<a href='#about'>About</a>
-					 
-					<a href='#projects'>Projects</a>
+				<div style={{ color: `${newTheme.title}` }} className={styles.links}>
+					<a href="#home">Home</a>
+					<a href="#about">About</a>
 
-					<a href='#contact'>Contact</a>
+					<a href="#projects">Projects</a>
+
+					<a href="#contact">Contact</a>
 				</div>
 				<button
-					aria-label={mode === 'dark' ? 'Dark Mode':'Light Mode'}
-					title={
-						mode === 'dark' ?  'Toggle Dark Mode':'Toggle Light Mode'
-					}
+					// aria-label={mode === 'dark' ? 'Dark Mode' : 'Light Mode'}
+					// title={mode === 'dark' ? 'Toggle Dark Mode' : 'Toggle Light Mode'}
 					style={{ color: `${newTheme.title}` }}
 					className={styles.modeButton}
-					onClick={handleMode}
+					// onClick={handleMode}
 				>
-					<div
-						className={styles.circle}
-						style={mode === 'light' ? circle : {}}
-					>
+					<div className={styles.circle} style={mode === 'light' ? circle : {}}>
 						<div
 							style={mode === 'light' ? cresent : {}}
 							className={styles.crescent}
@@ -97,25 +87,13 @@ const Navbar = () => {
 
 				<div onClick={handleMenu} className={styles.bars}>
 					<div
-						style={
-							open
-								? { background: `${newTheme.title}` }
-								: barStyle.bar1
-						}
+						style={open ? { background: `${newTheme.title}` } : barStyle.bar1}
 					></div>
 					<div
-						style={
-							open
-								? { background: `${newTheme.title}` }
-								: barStyle.bar2
-						}
+						style={open ? { background: `${newTheme.title}` } : barStyle.bar2}
 					></div>
 					<div
-						style={
-							open
-								? { background: `${newTheme.title}` }
-								: barStyle.bar3
-						}
+						style={open ? { background: `${newTheme.title}` } : barStyle.bar3}
 					></div>
 				</div>
 			</div>

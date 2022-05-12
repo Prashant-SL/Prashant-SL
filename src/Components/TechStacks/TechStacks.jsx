@@ -29,7 +29,10 @@ const TechStacks = () => {
 					}}
 					className={styles.logoWrapper}
 				>
-					<i className="devicon-html5-plain colored" />
+					{/* <i className="devicon-html5-plain colored" /> */}
+
+					<img src="./html5.png" alt="logo"></img>
+
 					<span>HTML</span>
 				</div>
 				<div
@@ -39,7 +42,7 @@ const TechStacks = () => {
 					}}
 					className={styles.logoWrapper}
 				>
-					<i className="devicon-css3-plain colored" />
+					<img src="./css3.png" alt="logo"></img>
 					<span>CSS</span>
 				</div>
 				<div
@@ -49,7 +52,8 @@ const TechStacks = () => {
 					}}
 					className={styles.logoWrapper}
 				>
-					<i className="devicon-javascript-plain colored" />
+					{/* <i className="devicon-javascript-plain colored" /> */}
+					<img src="./Js.png" alt="logo"></img>
 					<span>Javascript</span>
 				</div>
 				<div
@@ -59,8 +63,9 @@ const TechStacks = () => {
 					}}
 					className={styles.logoWrapper}
 				>
-					<i className="devicon-react-original colored" />
-					<span>React</span>
+					{/* <i className="devicon-mongodb-plain colored" /> */}
+					<img src="./mongodb.png" alt="logo"></img>
+					<span>MongoDB</span>
 				</div>
 				<div
 					style={{
@@ -69,27 +74,8 @@ const TechStacks = () => {
 					}}
 					className={styles.logoWrapper}
 				>
-					<i style={{ color: '#7248B6' }} className="devicon-redux-original" />
-					<span>Redux</span>
-				</div>
-				<div
-					style={{
-						color: `${newTheme.title}`,
-						background: `${newTheme.linkHover}`,
-					}}
-					className={styles.logoWrapper}
-				>
-					<i style={{ color: '#509941' }} className="devicon-nodejs-plain" />
-					<span>Node</span>
-				</div>
-				<div
-					style={{
-						color: `${newTheme.title}`,
-						background: `${newTheme.linkHover}`,
-					}}
-					className={styles.logoWrapper}
-				>
-					<i className="devicon-express-original" />
+					{/* <i className="devicon-express-original" /> */}
+					<img src="./expressjs.png" alt="logo"></img>
 					<span>Express</span>
 				</div>
 				<div
@@ -99,8 +85,31 @@ const TechStacks = () => {
 					}}
 					className={styles.logoWrapper}
 				>
-					<i className="devicon-mongodb-plain colored" />
-					<span>MongoDB</span>
+					{/* <i className="devicon-react-original colored" /> */}
+					<img src="./react.png" alt="logo"></img>
+					<span>React</span>
+				</div>
+				<div
+					style={{
+						color: `${newTheme.title}`,
+						background: `${newTheme.linkHover}`,
+					}}
+					className={styles.logoWrapper}
+				>
+					{/* <i style={{ color: '#7248B6' }} className="devicon-redux-original" /> */}
+					<img src="./redux.png" alt="logo"></img>
+					<span>Redux</span>
+				</div>
+				<div
+					style={{
+						color: `${newTheme.title}`,
+						background: `${newTheme.linkHover}`,
+					}}
+					className={styles.logoWrapper}
+				>
+					{/* <i style={{ color: '#509941' }} className="devicon-nodejs-plain" /> */}
+					<img src="./node.png" alt="logo"></img>
+					<span>Node</span>
 				</div>
 			</div>
 		</div>

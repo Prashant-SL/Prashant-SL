@@ -51,12 +51,12 @@ const Home = ({ scrollRef }) => {
 		<div ref={scrollRef}>
 			<SideIcons />
 			<div
-				id="home"
+				id='home'
 				className={styles.profile}
 				style={{ backgroundColor: `${newTheme.imgBackground}` }}
 			>
 				<div
-					data-aos="fade-zoom-out"
+					data-aos='fade-zoom-out'
 					className={styles.intro}
 					style={{
 						color: `${newTheme.para}`,
@@ -73,13 +73,13 @@ const Home = ({ scrollRef }) => {
 					<h1>I am a Full Stack Web Developer</h1>
 					<div className={styles.btn}>
 						<a
-							href="https://github.com/Prashant-SL/Prashant-SL/raw/main/Resume%20Prashant%20S%20Laxmeshwarmath.pdf"
-							target="blank"
+							href='https://drive.google.com/uc?id=1yC2K3GcmPsrg0l2Di5BsE9Tr85ZAes8Z&export=download'
+							target='blank'
 						>
 							<Button
 								text={
 									<span className={styles.resumeBtn}>
-										<span>Resume</span> <i className="fas fa-file-download"></i>
+										<span>Resume</span> <i className='fas fa-file-download'></i>
 									</span>
 								}
 								handleButton={handleButton}
@@ -96,14 +96,14 @@ const Home = ({ scrollRef }) => {
 					className={styles.profileImage}
 				>
 					<img
-						src="https://avatars.githubusercontent.com/u/95927107?v=4"
-						alt="Profile pic"
+						src='https://avatars.githubusercontent.com/u/95927107?v=4'
+						alt='Profile pic'
 					/>
 				</div>
 			</div>
 
 			<div
-				id="about"
+				id='about'
 				style={{
 					background: `${newTheme.highlightBackground}`,
 				}}
@@ -112,12 +112,12 @@ const Home = ({ scrollRef }) => {
 				<About />
 			</div>
 
-			<div id="techStacks" className={styles.techStacks}>
+			<div id='techStacks' className={styles.techStacks}>
 				<TechStacks />
 			</div>
 
 			{/* project section from here => */}
-			<div id="projects" className={styles.projects}>
+			<div id='projects' className={styles.projects}>
 				<h1 style={{ color: `${newTheme.title}` }} className={styles.heading}>
 					Projects I've Worked Upon
 				</h1>
@@ -128,9 +128,7 @@ const Home = ({ scrollRef }) => {
 					))}
 				</div>
 				<Button
-					text={
-						projects.length !== projectArray.length ? 'Show More' : 'Show Less'
-					}
+					text={projects.length !== projectArray.length ? 'Show More' : 'Show Less'}
 					handleButton={handleShowMoreBtn}
 				/>
 			</div>

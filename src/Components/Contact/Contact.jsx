@@ -27,6 +27,7 @@ const Contact = () => {
 						target="_blank"
 					>
 						<i className="fas fa-phone-alt" />
+						<p style={{ fontSize: '14px' }}>7676534465</p>
 					</a>
 					<a
 						href="mailto: pacchidon07@gmail.com"
@@ -35,6 +36,7 @@ const Contact = () => {
 						rel="noreferrer"
 					>
 						<i className="far fa-envelope"></i>
+						<p style={{ fontSize: '14px' }}>pacchidon07@gmail.com</p>
 					</a>
 					<a
 						href="https://twitter.com/pacchyeah"
@@ -43,6 +45,7 @@ const Contact = () => {
 						rel="noreferrer"
 					>
 						<i className="fab fa-twitter"></i>
+						<p style={{ fontSize: '14px' }}>pacchyeah</p>
 					</a>
 					<a
 						href="https://github.com/Prashant-SL"
@@ -51,6 +54,7 @@ const Contact = () => {
 						target="_blank"
 					>
 						<i className="fab fa-github" />
+						<p style={{ fontSize: '14px' }}>Prashant-SL</p>
 					</a>
 
 					<a
@@ -60,6 +64,7 @@ const Contact = () => {
 						rel="noreferrer"
 					>
 						<i className="fab fa-linkedin-in" />
+						<p style={{ fontSize: '14px' }}>prashant-sl</p>
 					</a>
 				</div>
 			</div>
