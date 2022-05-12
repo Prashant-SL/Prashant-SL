@@ -9,7 +9,7 @@
 
 - 🎯 My Goal is to build apps which adds more value to the people's daily life
 
-- 📄 My Resume is <a href="https://drive.google.com/drive/u/1/folders/11pYkiLLe2q6Sk4s9jvFKNKXU6Wx3O0NH">**Here**</a>
+- 📄 My Resume is <a href="https://drive.google.com/uc?id=1yC2K3GcmPsrg0l2Di5BsE9Tr85ZAes8Z&export=download">**Here**</a>
 
 - ⚡ Interests <br/> **I love producing Electronic Dance Music** <br/> **My perfect day is when I watch movies on First Day First Show** 
 
