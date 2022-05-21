@@ -1,7 +1,22 @@
-// import Purplle from '../assets/purplle.png'
-// var prefetch = new Image();
-//prefetch.src = "../assets/purplle.png";
 export const projects = [
+	{
+		img: 'https://user-images.githubusercontent.com/95927107/169561482-ed41369f-070f-400a-b71e-cb6d14149820.png',
+		title: 'React Project',
+		des: 'This is a solo project that I built using complete MERN stack. This project have all the necessary functionalities of an E-Commerce website. Built in just 10 days',
+		demo: '',
+		live: 'https://react-store-prashant-sl.netlify.app/',
+		gitHub: 'https://github.com/Prashant-SL/ReactProject',
+		technologies: [
+			'React JS',
+			'HTML',
+			'Chakra UI',
+			'CSS',
+			'JavaScript',
+			'Node.js',
+			'Express.js',
+			'MongoDB',
+		],
+	},
 	{
 		img: 'https://raw.githubusercontent.com/ankush4gupta/ajio_backend/Prashant-SL/AJIO%20CLONE%20HOMEPAGE.jpeg',
 		title: 'Ajio.com Clone',
@@ -9,14 +24,7 @@ export const projects = [
 		demo: '',
 		live: 'https://ajio-masai.herokuapp.com/',
 		gitHub: 'https://github.com/ankush4gupta/ajio_backend',
-		technologies: [
-			'HTML',
-			'CSS',
-			'JavaScript',
-			'Node.js',
-			'Express.js',
-			'MongoDB',
-		],
+		technologies: ['HTML', 'CSS', 'JavaScript', 'Node.js', 'Express.js', 'MongoDB'],
 	},
 	{
 		img: 'https://raw.githubusercontent.com/Niks14041/Pantloons-clone/prashant/Pantaloons%20Clone.jpeg',

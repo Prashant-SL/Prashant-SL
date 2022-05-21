@@ -30,8 +30,7 @@ const Navbar = () => {
 	const [preScrollPos, setPreScrollPos] = useState(window.pageYOffset);
 	const navRef = useRef();
 
-	const { newTheme, mode, handleMode, open, handleMenu } =
-		useContext(ThemeContext);
+	const { newTheme, mode, open, handleMenu } = useContext(ThemeContext);
 
 	window.onscroll = () => {
 		let currentScrollPos = window.pageYOffset;
@@ -63,20 +62,14 @@ const Navbar = () => {
 				</a> */}
 
 				<div style={{ color: `${newTheme.title}` }} className={styles.links}>
-					<a href="#home">Home</a>
-					<a href="#about">About</a>
+					<a href='#home'>Home</a>
+					<a href='#about'>About</a>
 
-					<a href="#projects">Projects</a>
+					<a href='#projects'>Projects</a>
 
-					<a href="#contact">Contact</a>
+					<a href='#contact'>Contact</a>
 				</div>
-				<button
-					// aria-label={mode === 'dark' ? 'Dark Mode' : 'Light Mode'}
-					// title={mode === 'dark' ? 'Toggle Dark Mode' : 'Toggle Light Mode'}
-					style={{ color: `${newTheme.title}` }}
-					className={styles.modeButton}
-					// onClick={handleMode}
-				>
+				<button style={{ color: `${newTheme.title}` }} className={styles.modeButton}>
 					<div className={styles.circle} style={mode === 'light' ? circle : {}}>
 						<div
 							style={mode === 'light' ? cresent : {}}
@@ -86,15 +79,9 @@ const Navbar = () => {
 				</button>
 
 				<div onClick={handleMenu} className={styles.bars}>
-					<div
-						style={open ? { background: `${newTheme.title}` } : barStyle.bar1}
-					></div>
-					<div
-						style={open ? { background: `${newTheme.title}` } : barStyle.bar2}
-					></div>
-					<div
-						style={open ? { background: `${newTheme.title}` } : barStyle.bar3}
-					></div>
+					<div style={open ? { background: `${newTheme.title}` } : barStyle.bar1}></div>
+					<div style={open ? { background: `${newTheme.title}` } : barStyle.bar2}></div>
+					<div style={open ? { background: `${newTheme.title}` } : barStyle.bar3}></div>
 				</div>
 			</div>
 		</nav>
