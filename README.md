@@ -5,7 +5,7 @@
 
 - 🎓 I have completed my **Bachelor's in Computer Application from Karnataka University**
 
-- 🌱 I’m currently learning **Full Stack Web Development from Masai School & also intrested in Digital Marketing**
+- 🌱 I’m currently learning **Full Stack Web Development from Masai School, worked on WordPress for 2 years+ & also intrested in Digital Marketing**
 
 - 🎯 My Goal is to build apps which adds more value to the people's daily life
 
