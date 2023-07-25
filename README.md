@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Prashant S Laxmeshwarmath</h1>
 <h4 align="left">A passionate coder living in Hubballi, Karnataka. I have completed my Bachelor's in Computer Application's from Karnataka University Dharwad, on October 2021. Dedicated and determined aspiring full-stack developer with a specialization in MERN stack. Seeking challenging opportunities to make the best use of my abilities and knowledge to develop both my professional and interpersonal skills, along with fulfilling the organization's growth and goals.</h4>
 
-<h3 align="left">About Me:</h3> 
+<h3 align="left">About Me:</h3>
 
 - 🎓 I have completed my **Bachelor's in Computer Application from Karnataka University**
 
-- 🌱 I’m currently learning **Full Stack Web Development from Masai School, worked on WordPress for 2 years+ & also intrested in Digital Marketing**
+- 🌱 I’m currently working in **IBO Mart Pvt. Ltd. as a Software Development Engineer - 1, since August 2022. Previously I worked as freelance WordPress web developer for more than year & also intrested in Digital Marketing**
 
-- 🎯 My Goal is to build apps which adds more value to the people's daily life
+- 🎯 My Goal is to **build apps which adds more value to the people's daily life**
 
 - 📄 My Resume is <a href="https://drive.google.com/file/d/1yC2K3GcmPsrg0l2Di5BsE9Tr85ZAes8Z/view">**Here**</a>
 
-- ⚡ Interests <br/> **I love producing Electronic Dance Music** <br/> **My perfect day is when I watch movies on First Day First Show** 
+- ⚡ Interests <br/> **I love producing Electronic Dance Music** <br/> **My perfect day is when I watch movies on First Day First Show**
 
-- 📫 Connect me **pacchidon07@gmail.com**
-
-
+- 📫 Connect me **prashantslxmath@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -35,7 +33,4 @@
 <a href="https://instagram.com/pacchyeah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pacchyeah" height="30" width="40" /></a>
 </p>
 
-
-## Stats📈 <p align="left"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prashant-SL&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="Prashant-SL" />  <br/><img width="48%" src="https://github-readme-stats.vercel.app/api?username=Prashant-SL&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="Prashant-SL" /> </p>
-
-<!-- <br/> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant-SL&theme=highcontrast&hide_border=true" alt="Prashant-SL" /> -->
+## Stats📈 <p align="left"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prashant-SL&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="Prashant-SL" /> <br/><img width="48%" src="https://github-readme-stats.vercel.app/api?username=Prashant-SL&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="Prashant-SL" /> </p>
