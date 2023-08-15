@@ -5,13 +5,13 @@
 
 - 🎓 I have completed my **Bachelor's in Computer Application from Karnataka University**
 
-- 🌱 I’m currently working in **IBO Mart Pvt. Ltd. as a Software Development Engineer - 1, since August 2022. Previously I worked as freelance WordPress web developer for more than year & also intrested in Digital Marketing**
+- 🌱 I have been employed at IBO Mart Pvt. Ltd. as a **Software Development Engineer - 1** since August 2022. Before that, I engaged in freelance WordPress web development for over a year. Additionally, I possess a keen interest in the field of **Digital Marketing**
 
 - 🎯 My Goal is to **build apps which adds more value to the people's daily life**
 
 - 📄 My Resume is <a href="https://drive.google.com/file/d/1yC2K3GcmPsrg0l2Di5BsE9Tr85ZAes8Z/view">**Here**</a>
 
-- ⚡ Interests <br/> **I love producing Electronic Dance Music** <br/> **My perfect day is when I watch movies on First Day First Show**
+- ⚡ Interests  **Watching movies on the first day first show will bring me happiness** <br/> **I love producing Electronic Dance Music** <br/> 
 
 - 📫 Connect me **prashantslxmath@gmail.com**
 
