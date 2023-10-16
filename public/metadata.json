@@ -1,0 +1,164 @@
+{
+  "firstname": "Prashant",
+  "lastname": "SL",
+  "shortname": "Prashant SL",
+  "description": "I am a Hubli/Bengaluru-based <b>full-stack web developer</b> with experience primarily on <b>frontend development</b>. I build stuffs for the web which are accessible and user-oriented. I basically convert a design into real web components with great <b>user experience</b>.",
+  "resume": "https://drive.google.com/file/d/11UpI7JH8fYTueRM0teSTnzZivgm6zAee/view?usp=drive_link",
+  "pic": "profilepic2.png",
+  "picAlt": "Prashant SL",
+  "phone_number":"+91 7676534465",
+  "social": [
+    { "media": "github", "link": "https://github.com/Prashant-SL", "username":"Prashant-SL" },
+    { "media": "twitter", "link": "https://twitter.com/pacchyaaa/", "username":"pacchyaaa"},
+    { "media": "linkedin", "link": "https://linkedin.com/in/Prashant-SL", "username":"Prashant-SL" },
+    { "media": "instagram", "link": "", "username":"" },
+    { "media": "email", "link": "mailto:prashantslxmath@gmail.com","username":"prashantslxmath@gmail.com" }
+  ],
+  "navLinks": [
+    {
+      "name": "About",
+      "link": "#about"
+    },
+    {
+      "name": "Experience",
+      "link": "#experience"
+    },
+    {
+      "name": "Projects",
+      "link": "#projects"
+    },
+    {
+      "name": "Message",
+      "link": "#message"
+    }
+  ],
+  "about": {
+    "descriptions": [
+      "I am a BCA grad, passed-out from Karnatak University Dharwad, in November, 2021. During the last year of my graduation I was working as a <b>Freelance WordPress Web Developer</b> under my own firm, <b>Yashas Online Promoters</b>.",
+      "I have started my web development journey back in October 2021 by joining coding bootcamp at <b>Masai School</b> built numerous small web applications. Learned technical skills here such as ReactJS, HTML, CSS, JavaScript, MongoDB, ExpressJS.",
+      "I initially focused on learning and exploring different JS & CSS frameworks and libraries than to just stick around with only HTML, CSS and Javascript. Then after that I decided to opt <b>ReactJS</b> as main tech as it was perfect and easy to learn than others, so I started to make many projects with this library.",
+      "After my course completion I got referred to a product-based e-Commerce company named IBO.com. Presently I am working here as Software Development Engineer - 1, since August 2022. Here I am working primarily on frontend."
+    ],
+    "skills": [
+      "JavaScript",
+      "ReactJS",
+      "Tailwind CSS",
+      "NextJS",
+      "Redux",
+      "HTML",
+      "CSS",
+      "ExpressJS",
+      "MongoDB",
+      "Jest/RTL",
+      "NodeJS",
+      "TypeScript"
+    ],
+    "illustration": "illustration_about.png",
+    "illustrationAlt": "web illustration"
+  },
+  "experience": [
+    {
+      "company": "IBO.com",
+      "logo": "ibologo.jpeg",
+      "logoAlt": "IBO.com Logo Image",
+      "date": "Aug, 2022 - Oct, 2023",
+      "link": "https://www.ibo.com/",
+      "position": "Software Development Engineer - 1",
+      "descriptions": [
+        "I have successfully, developed, deployed, and tested a pixel-perfect and responsive user interface for the Front-End web app of IBO",
+        "Have worked with UX designers and Product managers to convert design into UI components",
+        "Additionally, I have implemented various features such as modifying the cart, obtaining geo-location access for users, and added an Install App pop-up feature, resulting in an increase in the number of app installs and users",
+        "Furthermore, I have consistently worked on improving and enhancing its features and performance to meet the growing customer base and traffic demands",
+        "In addition to this, I have developed few of the RESTful APIs using NestJS on the Backend For Front-End (BFF) layer. These APIs are responsible for fetching data from core systems like Magento and Oodo, which are then consumed by the Front-End"
+      ]
+    },
+    {
+      "company": "Yashas Online Promoters",
+      "logo": "yashaslogo.png",
+      "logoAlt": "Yashas Online Promoters Logo image",
+      "date": "Jun, 2021 - July, 2021",
+      "link": "https://www.facebook.com/yashasonlinepromoters/",
+      "position": "Freelance WordPress Web Developer",
+      "descriptions": [
+        "Worked as a Freelance WordPress Web Developer under my own firm",
+        "Learned WordPress through YouTube & Udemy courses",
+        "Built a few websites for clients. Also worked as a ghost developer for a company"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Track Xpense",
+      "descriptions": [
+        "An expense tracker app built using MERN stack",
+        "User wise-data. Only user particular data is shown",
+        "Signup & sign in. Authentication using JSON WEB TOKEN - JWT",
+        "List of all transactions made by user"
+      ],
+      "live": "https://track-xpense1.netlify.app/",
+      "github": "https://github.com/Prashant-SL/track-xpense",
+      "screenshot": "trackxpense.png",
+      "screenshotAlt": "Track Xpense screenshot",
+      "tags": ["ReactJS/Vite", "ExpressJS", "MongoDB", "Tailwind CSS"]
+    },
+    {
+      "name": "React eCom Project",
+      "descriptions": [
+        "A complete MERN eCom project that sells various laptops",
+        "Made responsive, Used React routers for all the routes",
+        "Fetching products data from backend API",
+        "Integrated Razorpay demo payment API"
+      ],
+      "live": "https://react-store-prashant-sl.netlify.app/",
+      "github": "https://github.com/Prashant-SL/ReactProject",
+      "screenshot": "reactproject.png",
+      "screenshotAlt": "Netflix screenshot",
+      "tags": ["ReactJS/Vite", "Redux", "Chakra UI", "ExpressJS", "MongoDB"]
+    },
+    {
+      "name": "Ajio Clone",
+      "descriptions": [
+        "An e-commerce website that sells variety of lifestyle products",
+        "Login & slideshow functionality",
+        "Grid view of products",
+        "User authentication using random OTP"
+      ],
+      "live": "https://ajio-clone-prashant-sl.netlify.app/",
+      "github": "https://github.com/ankush4gupta/ajio_backend",
+      "screenshot": "ajioclone.png",
+      "screenshotAlt": "Portfolio version 3 screenshot",
+      "tags": ["HTML", "CSS", "JavaScript", "ExpressJS"]
+    },
+    {
+      "name": "Pataloons Clone",
+      "descriptions": [
+        "An e-commerce website that sells variety of fashion products",
+        "Navigation bar with a mega-menu & sub-menu",
+        "Promo code apply feature on the checkout page",
+        "Search and sort functionalities"
+      ],
+      "live": "https://pantaloons-clone-prashant-sl.netlify.app/homepage.html",
+      "github": "https://github.com/Prashant-SL/Pantaloons-Clone-Project",
+      "screenshot": "pantaloons.png",
+      "screenshotAlt": "Portfolio version 3 screenshot",
+      "tags": ["HTML", "CSS", "JavaScript", "DOM"]
+    }
+  ],
+  "archive": "https://github.com/Prashant-SL?tab=repositories",
+  "message": {
+    "illustration": "illustration_message.png",
+    "illustrationAlt": "message illustration"
+  },
+  "footer": {
+    "otherLinks": [
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com/pacchyaaa"
+      },
+      {
+        "name": "LinkedIn",
+        "link": "https://linkedin.com/in/Prashant-SL"
+      }
+    ]
+  }
+}

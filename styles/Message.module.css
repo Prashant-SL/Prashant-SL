@@ -1,0 +1,58 @@
+.message {
+  display: flex;
+  align-items: center;
+  padding: 100px 0;
+}
+
+.contactBox{
+  display: flex;
+  flex-direction: column;
+  border: 1px solid rebeccapurple;
+  align-items: center;
+  gap: 10px;
+  border-radius: 15px;
+  padding: 0 19px;
+  font-weight: 500;
+}
+
+.wrapper {
+  height: inherit;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 10px;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.divider {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.form {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+@media screen and (max-width: 750px) {
+  .form {
+    flex: 1;
+    gap: 5px;
+  }
+  .contactBox {
+    padding: 4px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .message {
+    padding: 50px 0;
+  }
+}
