@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Prashant S Laxmeshwarmath</h1>
-<h4 align="left">A passionate coder living in Hubballi, Karnataka. I have completed my Bachelor's in Computer Application's from Karnataka University Dharwad, on October 2021. Dedicated and determined aspiring full-stack developer with a specialization in MERN stack. Seeking challenging opportunities to make the best use of my abilities and knowledge to develop both my professional and interpersonal skills, along with fulfilling the organization's growth and goals.</h4>
+<h4 align="left">A passionate coder from Hubballi, Karnataka. I have completed my Bachelor's in Computer Application's from Karnataka University Dharwad, on October 2021. Dedicated and determined aspiring full-stack developer with a specialization in MERN stack. Seeking challenging opportunities to make the best use of my abilities and knowledge to develop both my professional and interpersonal skills, along with fulfilling the organization's growth and goals.</h4>
 
 <h3 align="left">About Me:</h3>
 
 - 🎓 I have completed my **Bachelor's in Computer Application from Karnataka University**
 
-- 🌱 I have been employed at IBO Mart Pvt. Ltd. as a **Software Development Engineer - 1** since August 2022. Before that, I engaged in freelance WordPress web development for over a year. Additionally, I possess a keen interest in the field of **Digital Marketing**
+- 🌱 I am currently working as a **Product/Frontend Engineer - 1** at Avo Automation. Previously, I was employed at IBO Mart Pvt. Ltd. as a **Software Development Engineer - 1** from August 2022 to December 2023. Before that, I engaged in freelance WordPress web development for over a year. Additionally, I possess a keen interest in the field of **Digital Marketing**
 
 - 🎯 My Goal is to **build apps which adds more value to the people's daily life**
 
-- 📄 My Resume is <a href="https://drive.google.com/file/d/1yC2K3GcmPsrg0l2Di5BsE9Tr85ZAes8Z/view">**Here**</a>
+- 📄 My Resume is <a href="https://raw.githubusercontent.com/Prashant-SL/Prashant-SL/main/PrashantSL_Resume_Frontend_Dev.pdf">**Here**</a>
 
-- ⚡ Interests  **Watching movies on the first day first show will bring me happiness** <br/> **I love producing Electronic Dance Music** <br/> 
+- ⚡ Interests  **Watching movies on the first day first show will make me happy** <br/>
 
 - 📫 Connect me **prashantslxmath@gmail.com**
 
