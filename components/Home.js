@@ -2,7 +2,7 @@ import styles from "../styles/Home.module.css";
 import Button from "../components/Button";
 import Link from "next/link";
 import createMarkup from "../utils/markup";
-import data from "../public/metadata";
+import data from "../public/metadata.json";
 import Img from "./Img";
 
 export default function Home() {

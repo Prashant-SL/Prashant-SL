@@ -1,9 +1,9 @@
 {
   "firstname": "Prashant",
   "lastname": "SL",
-  "shortname": "Prashant SL",
+  "shortname": "Prashant-SL",
   "description": "I am a Hubli/Bengaluru-based <b>full-stack web developer</b> with experience primarily on <b>frontend development</b>. I build stuffs for the web which are accessible and user-oriented. I basically convert a design into real web components with great <b>user experience</b>.",
-  "resume": "https://drive.google.com/file/d/11UpI7JH8fYTueRM0teSTnzZivgm6zAee/view?usp=drive_link",
+  "resume": "https://raw.githubusercontent.com/Prashant-SL/Prashant-SL/main/PrashantSL_Resume_Frontend_Dev.pdf",
   "pic": "profilepic2.png",
   "picAlt": "Prashant SL",
   "phone_number":"+91 7676534465",
@@ -37,7 +37,8 @@
       "I am a BCA grad, passed-out from Karnatak University Dharwad, in November, 2021. During the last year of my graduation I was working as a <b>Freelance WordPress Web Developer</b> under my own firm, <b>Yashas Online Promoters</b>.",
       "I have started my web development journey back in October 2021 by joining coding bootcamp at <b>Masai School</b> built numerous small web applications. Learned technical skills here such as ReactJS, HTML, CSS, JavaScript, MongoDB, ExpressJS.",
       "I initially focused on learning and exploring different JS & CSS frameworks and libraries than to just stick around with only HTML, CSS and Javascript. Then after that I decided to opt <b>ReactJS</b> as main tech as it was perfect and easy to learn than others, so I started to make many projects with this library.",
-      "After my course completion I got referred to a product-based e-Commerce company named IBO.com. Presently I am working here as Software Development Engineer - 1, since August 2022. Here I am working primarily on frontend."
+      "After my course completion I got referred to a product-based e-Commerce company named IBO.com and here I worked as an Software Development Engineer - 1, from August 2022 to December 2023.",
+      "Presently I am working as a  Product/Frontend Engineer - 1, since December 2023."
     ],
     "skills": [
       "JavaScript",
@@ -51,6 +52,7 @@
       "MongoDB",
       "Jest/RTL",
       "NodeJS",
+      "React Native",
       "TypeScript"
     ],
     "illustration": "illustration_about.png",
@@ -58,10 +60,25 @@
   },
   "experience": [
     {
+      "company": "Avo Automation",
+      "logo": "Avo-Automation-Logo.svg",
+      "logoAlt": "Avo Automation Logo Image",
+      "date": "Dec, 2023 - Present",
+      "link": "https://www.avoautomation.ai/",
+      "position": "Product/Frontend Engineer - 1",
+      "descriptions": [
+        "At Avo Automation, I significantly enhanced product capabilities through strategic integrations and feature implementations.",
+        "Within six months, I integrated Sauce Labs and BrowserStack into our platform.",
+        "Additionally, I incorporated Jira, Azure DevOps, TestRail, Zephyr Scale, and SAP Cloud ALM, enabling seamless test case mapping and real-time status updates.",
+        "The BrowserStack integration, in particular, allowed clients to test web and mobile applications directly, improving testing efficiency and workflow management.",
+        "These contributions streamlined client testing processes and enhanced project management capabilities, greatly improving user experience."
+      ]
+    },
+    {
       "company": "IBO.com",
       "logo": "ibologo.jpeg",
       "logoAlt": "IBO.com Logo Image",
-      "date": "Aug, 2022 - Oct, 2023",
+      "date": "Aug, 2022 - Dec, 2023",
       "link": "https://www.ibo.com/",
       "position": "Software Development Engineer - 1",
       "descriptions": [
