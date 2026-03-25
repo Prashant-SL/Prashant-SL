@@ -2,7 +2,7 @@
   "firstname": "Prashant",
   "lastname": "SL",
   "shortname": "Prashant-SL",
-  "description": "I am a Hubli/Bengaluru-based <b>full-stack web developer</b> with experience primarily on <b>frontend development</b>. I build stuffs for the web which are accessible and user-oriented. I basically convert a design into real web components with great <b>user experience</b>.",
+  "description": "Frontend / Full Stack Developer (MERN & Python) with <b>4+ years of experience</b> building scalable web apps and enterprise SaaS products. Expert in responsive frontends with <b>React/Next.js</b> and high-performance backends using <b>Node.js</b> and <b>FastAPI</b>.",
   "resume": "https://raw.githubusercontent.com/Prashant-SL/Prashant-SL/main/PrashantSL_Resume_Frontend_Dev.pdf",
   "pic": "profilepic2.png",
   "picAlt": "Prashant SL",
@@ -34,44 +34,59 @@
   ],
   "about": {
     "descriptions": [
-      "I am a BCA grad, passed-out from Karnatak University Dharwad, in November, 2021. During the last year of my graduation I was working as a <b>Freelance WordPress Web Developer</b> under my own firm, <b>Yashas Online Promoters</b>.",
-      "I have started my web development journey back in October 2021 by joining coding bootcamp at <b>Masai School</b> built numerous small web applications. Learned technical skills here such as ReactJS, HTML, CSS, JavaScript, MongoDB, ExpressJS.",
-      "I initially focused on learning and exploring different JS & CSS frameworks and libraries than to just stick around with only HTML, CSS and Javascript. Then after that I decided to opt <b>ReactJS</b> as main tech as it was perfect and easy to learn than others, so I started to make many projects with this library.",
-      "After my course completion I got referred to a product-based e-Commerce company named IBO.com and here I worked as an Software Development Engineer - 1, from August 2022 to December 2023.",
-      "Presently I am working as a  Product/Frontend Engineer - 1, since December 2023."
+      "I am a BCA grad from Karnatak University Dharwad. I started my web development journey by freelancing under my own firm, <b>Yashas Online Promoters</b>, followed by an intensive coding bootcamp at <b>Masai School</b>.",
+      "I then joined <b>IBO.com</b> as an SDE-1, working on a high-traffic Next.js e-commerce platform. After that, at <b>Avo Automation (SLK Software)</b>, I built complex automation UIs and third-party integrations using React and Redux.",
+      "Currently, I am working as a <b>Product Engineer - 2</b> at <b>The Math Company (MathCo)</b>, where I architect scalable services using <b>Keycloak (OAuth 2.0)</b>, build high-performance dashboards with <b>React.js and Plotly</b>, and work with <b>FastAPI</b> backends.",
+      "With 4+ years of experience, I have a proven track record in performance optimization, enterprise SaaS development, and mastering Agile workflows and scalable system design."
     ],
     "skills": [
       "JavaScript",
+      "TypeScript",
+      "Python",
       "ReactJS",
-      "Tailwind CSS",
       "NextJS",
       "Redux",
-      "HTML",
-      "CSS",
+      "Tailwind CSS",
+      "Material UI",
+      "NodeJS",
+      "FastAPI",
       "ExpressJS",
       "MongoDB",
-      "Jest/RTL",
-      "NodeJS",
-      "React Native",
-      "TypeScript"
+      "PostgreSQL",
+      "Docker",
+      "HTML",
+      "CSS"
     ],
     "illustration": "illustration_about.png",
     "illustrationAlt": "web illustration"
   },
   "experience": [
     {
+      "company": "The Math Company (MathCo)",
+      "logo": "mathco-logo.svg",
+      "logoAlt": "MathCo Logo Image",
+      "date": "Dec, 2024 - Present",
+      "link": "https://themathcompany.com/",
+      "position": "Product Engineer - 2",
+      "descriptions": [
+        "Architected and deployed a centralized authentication & authorization system using Keycloak (OAuth 2.0); engineered secure, scalable services across FastAPI and React.",
+        "Developed high-performance, reusable UI components for synchronized dashboards using React.js and Plotly, handling complex data visualizations for real-time analysis.",
+        "Led migration to server-side pagination, reducing frontend memory overhead by 40%; enforced code quality standards through rigorous code reviews.",
+        "Partnered with backend teams to engineer a dynamic filtering interface with 12+ inter-linked dropdowns utilizing complex state logic, ensuring a seamless user experience."
+      ]
+    },
+    {
       "company": "Avo Automation",
       "logo": "Avo-Automation-Logo.svg",
       "logoAlt": "Avo Automation Logo Image",
-      "date": "Dec, 2023 - Present",
+      "date": "Dec, 2023 - Dec, 2024",
       "link": "https://www.avoautomation.ai/",
-      "position": "Product/Frontend Engineer - 1",
+      "position": "Product Development Engineer - 1",
       "descriptions": [
-        "At Avo Automation, I significantly enhanced product capabilities through strategic integrations and feature implementations.",
-        "Within six months, I integrated Sauce Labs and BrowserStack into our platform.",
-        "Additionally, I incorporated Jira, Azure DevOps, TestRail, Zephyr Scale, and SAP Cloud ALM, enabling seamless test case mapping and real-time status updates.",
-        "The BrowserStack integration, in particular, allowed clients to test web and mobile applications directly, improving testing efficiency and workflow management.",
-        "These contributions streamlined client testing processes and enhanced project management capabilities, greatly improving user experience."
+        "Designed a parallel execution UI for BrowserStack using React and Redux, reducing manual test configuration workload by 100% and improving workflow efficiency.",
+        "Engineered a reliable automation interface to execute SAP Cloud ALM test cases with zero latency, utilizing advanced state management patterns.",
+        "Developed integrations with Zephyr Scale and TestRail for automated report synchronization.",
+        "Integrated Jira, Azure DevOps, and other third-party tools, enabling seamless test case mapping and real-time status updates."
       ]
     },
     {
@@ -93,13 +108,13 @@
       "company": "Yashas Online Promoters",
       "logo": "yashaslogo.png",
       "logoAlt": "Yashas Online Promoters Logo image",
-      "date": "Jun, 2021 - July, 2021",
+      "date": "Oct, 2020 - Oct, 2021",
       "link": "https://www.facebook.com/yashasonlinepromoters/",
-      "position": "Freelance WordPress Web Developer",
+      "position": "Freelance Web Developer",
       "descriptions": [
-        "Worked as a Freelance WordPress Web Developer under my own firm",
-        "Learned WordPress through YouTube & Udemy courses",
-        "Built a few websites for clients. Also worked as a ghost developer for a company"
+        "Founded a freelance firm delivering custom web solutions; managed full lifecycle from requirement gathering to deployment.",
+        "Built websites for multiple clients using WordPress and custom web technologies.",
+        "Handled end-to-end project management including client communication, design, and deployment."
       ]
     }
   ],
